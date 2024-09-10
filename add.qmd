@@ -1,5 +1,5 @@
 adding my add.qmd file
 
-here is my longer paragraph. I will simply introduce myself. My name is Suha Akach and I am a statistics major that is very intrested in learning more about data science and bayes methods. I am a beginner though! ----------------------------
+here is my longer paragraph. I will simply introduce myself! My name is Suha Akach and I am a statistics major that is very intrested in learning more about data science and bayes methods. I am a senior but I am a beginner at the field of data science! Hope I did this right ----------------
 
-here is my shorter line!!
+here is my shortest line!
