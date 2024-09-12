@@ -1,0 +1,19 @@
+---
+title: "Homework 2 - Suha Akach"
+format:
+  pdf:
+    colorlinks: true
+---
+# Instructions
+
+1. Getting started, I went to the classroom repository titled "ids-f24" then pressed fork on the github page. It brings up a option to rename and configure your new fork and I simply pressed "create fork".
+
+2. I cloned the forked repo by first copying the SSH code provided on the "code" tab in Github. Then I opened my terminal and wrote "git clone [paste link]". Now that my repo is cloned, I opened it using the cd command in terminal.
+
+3. With my remote repo opened in VS code, I created a new branch titled "suhahw" by writing "git branch suhahw" on my terminal then I switched to my new branch by putting "git switch suhahw".
+
+4. Now that I have my own branch, I started by adding my wishes onto the class wishlist. Then I staged my changes by putting "git add index.qmd" then commiting my changes with "git commit -m 'commit'". Then I created a new a new file titled "add.qmd" in the repo and followed the same steps to stage and commit my changes.
+
+5. I tried to push my commits into the repo but I ran into a error: "remote-curl: error reading command stream from git". After watching many youtube tutorials and reading online, I figured out that I had to delete my initial fork and starting the process over again. Only follow what I did at this step if this issue occured, if not then follow step 6.
+
+6. Finally, I pushed my commits sucessfully by using "git push origin suhahw" then on my github page, an option to "compare and pull request" popped up on the top. I clicked it then wrote a short commit in description box and pressed enter.
